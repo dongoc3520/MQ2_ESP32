@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/examples/get-started/BAI2_GPIO_INPUT/build/CMakeFiles/bootloader
+E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/examples/get-started/BAI2_GPIO_INPUT/build/CMakeFiles/bootloader.rule
+E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/examples/get-started/BAI2_GPIO_INPUT/build/CMakeFiles/bootloader-complete.rule
+E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/examples/get-started/BAI2_GPIO_INPUT/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/examples/get-started/BAI2_GPIO_INPUT/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/examples/get-started/BAI2_GPIO_INPUT/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/examples/get-started/BAI2_GPIO_INPUT/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/examples/get-started/BAI2_GPIO_INPUT/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/examples/get-started/BAI2_GPIO_INPUT/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/examples/get-started/BAI2_GPIO_INPUT/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

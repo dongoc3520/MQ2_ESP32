@@ -1,0 +1,23 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/bootloader/subproject",
+    "build_dir":          "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/examples/get-started/BAI2_GPIO_INPUT/build/bootloader",
+    "config_file":        "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/examples/get-started/BAI2_GPIO_INPUT/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.4.5-dirty",
+    "target":             "esp32",
+    "rev":                "0",
+    "min_rev":            "0",
+    "max_rev":            "399",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/efuse/Kconfig;E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/esp32/Kconfig;E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/esp_common/Kconfig;E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/esp_hw_support/Kconfig;E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/esp_system/Kconfig;E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/freertos/Kconfig;E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/hal/Kconfig;E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/log/Kconfig;E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/newlib/Kconfig;E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/bootloader/Kconfig.projbuild;E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/esp_rom/Kconfig.projbuild;E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/esptool_py/Kconfig.projbuild;E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/bootloader", "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/bootloader_support", "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/efuse", "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/esp32", "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/esp_common", "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/esp_hw_support", "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/esp_rom", "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/esp_system", "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/esptool_py", "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/freertos", "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/hal", "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/log", "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/bootloader/subproject/main", "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/bootloader/subproject/components/micro-ecc", "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/newlib", "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/partition_table", "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/soc", "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/spi_flash", "E:/EMBEDDED/ESP32/ESP32_IDF/Espressif/frameworks/esp-idf-v4.4.5/components/xtensa", "" ]
+}
